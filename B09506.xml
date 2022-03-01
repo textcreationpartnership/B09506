@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Province of the Massachusetts-Bay. By the Honourable, the lieutenant governour, &amp;c. Council &amp; Assembly convened at Boston, upon Wednesday the 27th. of May. 1696. In the eighth year of His Majesties reign. : For better encouragement to prosecute the French and Indian enemy, &amp;c. ...</title>
+            <author>Massachusetts. Lieutenant Governor (1692-1701 : Stoughton)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09506</idno>
+            <idno type="OCLC"> 80923095</idno>
+            <idno type="STC">Wing M1014</idno>
+            <idno type="STC">ESTC W34522</idno>
+            <idno type="EEBO-CITATION">80923095</idno>
+            <idno type="OCLC">ocm 80923095</idno>
+            <idno type="VID">191919</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09506)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191919)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2895:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Province of the Massachusetts-Bay. By the Honourable, the lieutenant governour, &amp;c. Council &amp; Assembly convened at Boston, upon Wednesday the 27th. of May. 1696. In the eighth year of His Majesties reign. : For better encouragement to prosecute the French and Indian enemy, &amp;c. ...</title>
+                  <author>Massachusetts. Lieutenant Governor (1692-1701 : Stoughton)</author>
+                  <author>Stoughton, William, 1632-1701.</author>
+                  <author>Massachusetts. Council.</author>
+                  <author>Massachusetts. General Court.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : coat of arms.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Bartholomew Green and John Allen,</publisher>
+                  <pubPlace>[Boston :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Isaac Addington, secr. William Stoughton.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Providing for the provision and wages of commanders and companies in the service of the King, and reiterating the offer of bounties for Indian scalps and prisoners.</note>
+                  <note>Reproduction of original in the Boston Public Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Indians of North America --  Wars --  1600-1750 --  Early works to 1800.</term>
+               <term>Bounties --  Early works to 1800.</term>
+               <term>Massachusetts --  History --  Colonial period, ca. 1600-1775 --  Sources.</term>
+               <term>United States --  History --  King William's War, 1689-1697 --  Sources.</term>
+               <term>Massachusetts --  History, Military --  Early works to 1800.</term>
+               <term>Broadsides --  United States --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:191919:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <head>
+                     <figure>
+                        <figDesc>monogram of 'W' (William) superimposed on 'M' (Mary)</figDesc>
+                     </figure> R</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QUI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>Province of the Maſſachu<g ref="char:EOLhyphen"/>ſetts-Bay.</head>
+            <head>By the HONORABLE, the Lieutenant Governour, &amp;c, Council &amp; Aſſembly: Convened at <hi>Boſton,</hi> upon <hi>Wedneſday</hi> the <hi>27th.</hi> of <hi>May</hi> 1696. In the Eighth Year of His Majeſties Reign.</head>
+            <head type="sub">For better Encouragement to Proſecute the <hi>French</hi> and <hi>Indian</hi> Enemy, <hi>&amp;c.</hi>
+            </head>
+            <opener>Ordered,</opener>
+            <p>THAT if any ſuitable perſon or perſons ſhall offer themſelves to take the Command of a Company againſt His Majeſties Enemies, and obtain a Commiſſion from the Honourable the Lieutenant Governour, or Commander in Chief, with Orders to Raiſe a Company or Compa<g ref="char:EOLhyphen"/>nies for His Majeſties Service: ſuch Officers and Companies (over and above the Encouragement given by an Act of this Court, of Fifty Pounds <hi>Per Head</hi> for every Indian man, and Twenty five Pounds <hi>Per Head,</hi> for any Indian Woman or Child, Male or Female, under the Age of Fourteen Years, taken or brought in Priſoner; the Scalps of all Indians ſlain, to be produced and delivered to the Commiſſioner or Commiſſioners for War, as the Law in th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ca<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e provides, and the benefit of Plunder) ſhall be allowed and paid out of the Publick Treaſury their neceſſary Proviſion, Ammunition and accuſtomed Wages, for ſo long time as they are ſeeking or purſuing ſaid Enemy. But when they ſhall return to any Town, Fort, Garriſon or Veſſels for ſo long time as they ſtay in any ſuch place, they ſhall be out of Pay: And the chief Officer and Clerk of every ſuch Company, ſhall each of them keep a Journal of all their Proceedings from time to time, and return the ſame unto the Commiſſioner for War, and that they be further ſupplied with Veſſels for Tranſ<g ref="char:EOLhyphen"/>portation, and Boats as needed. And in caſe of receiving any Wounds or Maihems in the ſaid Service, ſhall be encouraged as to Cure and Penſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns as is by I aw provided for Souldiers that are Impreſſed, and likewiſe to be allowed a Chyrurgeon with them if it be procured under Publick Pay.</p>
+            <p>And for Encouragement of ſpeedy Succours and Relief to be yielded unto the Frontiers upon an Alarm or Attack m<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> upon them by the Enemy; ſuch of the Neighbouring Towns as move to their Relief and towards the Surprizal or Purſuit of the Enemy, by virtue of the Law of the Province, or by virtue of any Order of the Lieutenant Governour or Commander in Chief, or Commander of the Regiment, ſhall have the like Encouragement as aforeſaid, if ſuch perſons ſhall have purſued the Enemy farther than they may reaſonably return in twenty four Hours, otherwiſe to be allowed no Wages.</p>
+            <p>
+               <hi>Provided,</hi> That this Order ſhall continue in force for the ſpace of ſix Months next coming, and for no longer.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Iſaac Addington,</hi> Secr.</item>
+                     <item>
+                        <hi>William Stoughton.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
